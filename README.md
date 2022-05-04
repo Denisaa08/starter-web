@@ -15,3 +15,7 @@ This is the purpose of the project
 This is the deployment page of the project 
 
 Sample website with plenty of files for demos
+
+### Copyright
+
+2022 Git Trainig 
